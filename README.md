@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Python developer and data scientist from India 🇮🇳</h3>
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🔭 I’m currently working on **Fine Tuning of ML Models**
+- 🔭 I’m currently working on **Fine Tuning on ML Models**
 
 - 🌱 I’m currently learning **Machine learning, deep learning, Matplotlib, Seaborn, SQL, Power BI**
 
